@@ -17,3 +17,8 @@
 hello
 and
 then
+{
+  "name": "ok",
+  "private": true,
+  "dependencies": {}
+}
