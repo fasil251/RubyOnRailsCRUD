@@ -3,3 +3,8 @@
   "private": true,
   "dependencies": {}
 }
+{
+  "name": "store",
+  "private": true,
+  "dependencies": {}
+}
